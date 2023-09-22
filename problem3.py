@@ -4,11 +4,13 @@
 
 public:
 username
+images
 caption
 likes
 comments
 
 private:
+
 
 
 
